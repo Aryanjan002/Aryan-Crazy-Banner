@@ -6,22 +6,22 @@
 # chmod +x requirement.sh
 
 
-4) chmod +x c-banner.sh
+# chmod +x c-banner.sh
 
 
-5) bash requirement.sh
+# bash requirement.sh
 
 
-6) bash c-banner.sh
+# bash c-banner.sh
 
 
-7) goto /sdcard/jkr/c-ban.sh and add Your ASCII art than save without any modification ðŸ˜…
+# NOTE: goto /sdcard/jkr/c-ban.sh and add Your ASCII art than save without any modification ðŸ˜…
 
 
-8) than Continue Processing..
+# than Continue Processing..
 
 
-9) Enter Your Banner Name
+#  Enter Your Banner Name
 
 
-10) Done..!!!
+# Done..!!!
